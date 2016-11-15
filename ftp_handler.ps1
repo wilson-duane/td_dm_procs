@@ -30,6 +30,7 @@ class FTPHandler{
        $this.configFile = "..\cfg\ftpjobs.xml"
     }
     #SOMETHING HERE TO COMMENT FOR GIT
+    #New comment by Duane
     ##############################################################
     #Send file to FTP server.
     #jobName := Job name to be executed. 
